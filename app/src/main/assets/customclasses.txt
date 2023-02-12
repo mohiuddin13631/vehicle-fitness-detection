@@ -1,3 +1,5 @@
+Fit_Bus
+Unfit_Bus
 Ambulance
 Bus
 Car
